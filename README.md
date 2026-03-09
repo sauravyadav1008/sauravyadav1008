@@ -32,8 +32,6 @@
 
 </p>
 
----
-
 # ⚙️ Tech Stack
 
 <p align="center">
@@ -42,20 +40,6 @@
 
 </p>
 
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sauravyadav1008&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauravyadav1008&layout=compact&theme=tokyonight"/>
-
-</p>
-and I'm building systems for it 🚀
-
----
 
 <p align="center">
 
